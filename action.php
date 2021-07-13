@@ -73,8 +73,8 @@ if(isset($_POST["action"]))
 			$mail->Host = 'smtp.gmail.com';
 			$mail->Port = '587';
 			$mail->SMTPAuth = true;
-			$mail->Username = 'ayyubi0105@gmail.com';
-			$mail->Password = 'H1lm4n321';
+			$mail->Username = 'your email';
+			$mail->Password = 'your password';
 			$mail->SMTPSecure = 'tls';
 			$mail->From = 'owner@bee.com';
 			$mail->FromName = 'Bee Hospital';
