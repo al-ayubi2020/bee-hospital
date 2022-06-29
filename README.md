@@ -1,4 +1,4 @@
 # bee-hospital
-comptfest 2021
-
-i dont know how to write readme
+Admin Account:
+Email : owner@bee.com
+Password : 12345678
